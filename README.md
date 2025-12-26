@@ -1,9 +1,9 @@
-## 📘 Simple Quiz App
+## Simple Quiz App
 
 A clean and interactive Quiz Application built with HTML, CSS, and JavaScript.
 Users can answer multiple-choice questions and see their final score at the end.
 
-## 🚀 Demo
+## Demo
 
 https://shraddhapant21-star.github.io/3-Quiz-App/
 
@@ -16,7 +16,7 @@ https://shraddhapant21-star.github.io/3-Quiz-App/
 ✔️ Clean and responsive UI
 ✔️ Built with pure HTML, CSS, JavaScript (no frameworks)
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML5
 - CSS3
